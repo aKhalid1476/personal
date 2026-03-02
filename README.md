@@ -1,0 +1,1 @@
+Always use AGENT.md as the source of truth for how to modify this repository.
